@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=DM Sans')
+
+body {
+  height: 100%;
+}
+
+.MainCol {
+  background-color: #f55353;
+  text-align: center;
+}
+
+
+.SkillsViewer {
+}
+
+.span {
+  position: absolute;
+  display: block;
+  width: 100%;
+  color: black;
+}
+
+.ArmorViewer {
+}
+
+.ArmorPiece {
+  width: 10%;
+  image-rendering: pixelated;
+}
+
+.PetsViewer {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.PetImg {
+  width: 7.5%;
+  image-rendering: pixelated;
+
+}
+
+.SlayerViewer {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.SlayerTab {
+  padding-left: 5%;
+  padding-right: 5%;
+  display: inline-block;
+}
+
+.QuickProfileWrap {
+  padding-left: 7%;
+  padding-bottom: 5%;
+  float: left;
+}
+
+.QuickProfile {
+  padding: 5%;
+  display: inline-block;
+  border-style: solid;
+  border-radius: 25px;
+}
+
+.QuickProfile span {
+  color: #FFF;
+}
+
+.QuickProfileImage {
+  width: 40%;
+  image-rendering: pixelated;
+  float: left;
+}
